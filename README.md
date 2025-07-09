@@ -6,7 +6,7 @@ About Colorchase
 
 -----------------------
 
-This is in preparation to a project in which our System dubbed as Propwings will be done in Angular (UI) and Python (API)
+This is in preparation for a project in which our System, dubbed as Propwings, will be done in Angular (UI) and Python (API)
 
 
 ------------------------
